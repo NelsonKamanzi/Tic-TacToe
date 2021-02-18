@@ -1,0 +1,13 @@
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.exe
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.deps.json
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.runtimeconfig.json
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.runtimeconfig.dev.json
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.dll
+C:\Users\Arnaud\source\repos\tic\tic\bin\Debug\netcoreapp3.1\tic.pdb
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.csprojAssemblyReference.cache
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.AssemblyInfoInputs.cache
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.AssemblyInfo.cs
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.dll
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.pdb
+C:\Users\Arnaud\source\repos\tic\tic\obj\Debug\netcoreapp3.1\tic.genruntimeconfig.cache
